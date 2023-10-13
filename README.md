@@ -1,5 +1,4 @@
-### Hi there 👋
-### This is ManTang!
+### 👋 Hi there, this is ManTang!
 
 <!--
 **ManTang034/ManTang034** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
