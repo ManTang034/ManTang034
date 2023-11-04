@@ -32,7 +32,7 @@ Welcome to my Github page! I am ManTang and I obtained a Master's degree in robo
  
 #### :muscle: Things I am challenging myself with:
 - Waking up earlier to make good use of the day
-- Learning English everyday(already 92 days)
+- Learning English everyday(already 94 days)
 - Preparing my doctoral application
  
 #### :computer: Programming languages and tools: 
