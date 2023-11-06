@@ -27,13 +27,13 @@ Welcome to my Github page! I am ManTang and I obtained a Master's degree in robo
  
  
 #### 🌱 Things I am currently working on: 
-- Coding as a software developer engineer
+- a software developer engineer
 - [My website](https://mantang034.github.io/) 🚀 *coming soon*
  
 #### :muscle: Things I am challenging myself with:
-- Waking up earlier to make good use of the day
-- Learning English everyday(already 96 days)
-- Preparing my doctoral application
+- Wake up earlier to make good use of the day
+- Learn English everyday(already 96 days)
+- Prepare my doctoral application
  
 #### :computer: Programming languages and tools: 
 <p>
