@@ -21,14 +21,14 @@ Here are some ideas to get you started:
 [![Zhihu](https://img.shields.io/badge/-Zhihu-blue?style=flat&logo=Zhihu&logoColor=white)](https://www.zhihu.com/people/coeus-45/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:ManTang034@gmail.com)
  
-Welcome to my Github page! I am ManTang and I obtained a Master's degree in robotics from Shanghai University in 2023!  
+Welcome to my Github page! I am ManTang and I obtained my Master's degree in Robotics from Shanghai University in 2023!  
  
 <!-- <img align="right" alt="img" src="https://github.com/FernandoRoldan93/FernandoRoldan93/blob/master/cover_image.jpg" width="50%" height="auto" /> -->
  
  
 #### 🌱 Things I am currently working on: 
-- SDE(fulltime)
-- [My website](https://mantang034.github.io/) 🚀 *coming soon*
+- Electronic Architecture Development Engineer
+<!-- - [My website](https://mantang034.github.io/) 🚀 *coming soon* -->
  
 #### :muscle: Things I am challenging myself with:
 - Wake up earlier to make good use of the day
