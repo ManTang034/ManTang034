@@ -27,7 +27,7 @@ Welcome to my Github page! I am ManTang and I obtained my Master's degree in Rob
  
  
 #### 🌱 Things I am currently working on: 
-- Electronic Architecture Development Engineer
+- Early-Stage Electronic Architecture Engineer
 <!-- - [My website](https://mantang034.github.io/) 🚀 *coming soon* -->
  
 #### :muscle: Things I am challenging myself with:
